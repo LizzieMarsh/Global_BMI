@@ -1,0 +1,288 @@
+cluster_ID,country,count
+0,Afghanistan,84
+0,Andorra,42
+0,Armenia,42
+0,Bangladesh,84
+0,Belarus,84
+0,Benin,42
+0,Cameroon,42
+0,Central African Republic,84
+0,Chad,42
+0,Colombia,42
+0,Comoros,42
+0,Congo,84
+0,Cook Islands,42
+0,Cuba,42
+0,Cyprus,42
+0,Djibouti,84
+0,Dominican Republic,84
+0,Egypt,42
+0,Fiji,42
+0,French Polynesia,84
+0,Gabon,84
+0,Guinea,42
+0,India,84
+0,Iraq,42
+0,Jamaica,42
+0,Japan,42
+0,Kazakhstan,42
+0,Kenya,42
+0,Kiribati,84
+0,Kuwait,84
+0,Lao PDR,42
+0,Lebanon,84
+0,Lesotho,84
+0,Libya,84
+0,Malaysia,42
+0,Maldives,42
+0,Marshall Islands,84
+0,Micronesia (Federated States of),84
+0,Moldova,42
+0,Montenegro,42
+0,Myanmar,42
+0,Namibia,42
+0,Nepal,42
+0,Niger,42
+0,Niue,42
+0,Occupied Palestinian Territory,84
+0,Papua New Guinea,84
+0,Saint Kitts and Nevis,42
+0,Samoa,42
+0,Saudi Arabia,84
+0,Seychelles,84
+0,Somalia,42
+0,Suriname,84
+0,Swaziland,84
+0,Syrian Arab Republic,42
+0,Taiwan,42
+0,Tanzania,42
+0,Thailand,42
+0,Ukraine,42
+0,United Arab Emirates,42
+0,Zambia,84
+0,Zimbabwe,84
+1,Albania,84
+1,Argentina,42
+1,Barbados,42
+1,Bolivia,42
+1,Brazil,42
+1,Bulgaria,42
+1,Chile,42
+1,China,84
+1,Croatia,84
+1,Ecuador,42
+1,Georgia,42
+1,Guyana,42
+1,Hungary,84
+1,Indonesia,42
+1,Kyrgyzstan,84
+1,Lao PDR,42
+1,Latvia,84
+1,Lithuania,42
+1,Macedonia (TFYR),42
+1,Maldives,42
+1,Mongolia,42
+1,Myanmar,42
+1,Paraguay,42
+1,Peru,42
+1,Poland,84
+1,Romania,84
+1,Russian Federation,42
+1,Sri Lanka,42
+1,Tajikistan,84
+1,Timor-Leste,42
+1,Turkmenistan,84
+1,Ukraine,42
+1,Uruguay,84
+1,Uzbekistan,84
+1,Viet Nam,84
+2,Algeria,84
+2,American Samoa,84
+2,Angola,42
+2,Antigua and Barbuda,42
+2,Bahamas,42
+2,Bahrain,84
+2,Bolivia,42
+2,Botswana,84
+2,Burundi,84
+2,China (Hong Kong SAR),42
+2,Colombia,42
+2,Comoros,42
+2,DR Congo,42
+2,Dominica,84
+2,Ecuador,42
+2,Egypt,42
+2,Equatorial Guinea,42
+2,Eritrea,84
+2,Ethiopia,84
+2,Honduras,42
+2,Indonesia,42
+2,Iran,42
+2,Jordan,84
+2,Kenya,42
+2,Liberia,84
+2,Madagascar,84
+2,Malawi,84
+2,Mauritania,42
+2,Mauritius,84
+2,Mexico,84
+2,Morocco,84
+2,Mozambique,84
+2,Nauru,84
+2,Nicaragua,42
+2,Niue,42
+2,Oman,84
+2,Pakistan,42
+2,Palau,84
+2,Paraguay,42
+2,Philippines,84
+2,Puerto Rico,84
+2,Saint Lucia,42
+2,Saint Vincent and the Grenadines,42
+2,Samoa,42
+2,Singapore,84
+2,Solomon Islands,84
+2,Somalia,42
+2,South Korea,84
+2,Sudan,84
+2,Syrian Arab Republic,42
+2,Tanzania,42
+2,Tokelau,84
+2,Tonga,84
+2,Tunisia,42
+2,Turkey,84
+2,Tuvalu,84
+2,Uganda,84
+2,Vanuatu,84
+2,Venezuela,42
+2,Yemen,42
+3,Argentina,42
+3,Armenia,42
+3,Azerbaijan,84
+3,Bosnia and Herzegovina,84
+3,Brazil,42
+3,Bulgaria,42
+3,Chile,42
+3,China (Hong Kong SAR),42
+3,Cuba,42
+3,Czech Republic,84
+3,Georgia,42
+3,Iraq,42
+3,Kazakhstan,42
+3,Lithuania,42
+3,Macedonia (TFYR),42
+3,Moldova,42
+3,Mongolia,42
+3,Montenegro,42
+3,North Korea,84
+3,Peru,42
+3,Serbia,84
+3,Slovakia,84
+3,Slovenia,84
+3,Sri Lanka,42
+3,Taiwan,42
+3,Thailand,42
+3,Timor-Leste,42
+4,Australia,42
+4,Austria,42
+4,Belgium,42
+4,Brunei Darussalam,42
+4,Cambodia,84
+4,Canada,84
+4,Equatorial Guinea,42
+4,France,42
+4,Gambia,42
+4,Germany,42
+4,Ghana,42
+4,Greenland,84
+4,Grenada,42
+4,Haiti,42
+4,Iceland,84
+4,Ireland,42
+4,Italy,84
+4,Luxembourg,84
+4,Malta,84
+4,Netherlands,84
+4,New Zealand,84
+4,Sweden,42
+4,Switzerland,84
+4,United Kingdom,42
+4,United States of America,84
+5,Antigua and Barbuda,42
+5,Austria,42
+5,Barbados,42
+5,Belgium,42
+5,Belize,84
+5,Bermuda,84
+5,Brunei Darussalam,42
+5,Denmark,42
+5,Estonia,84
+5,France,42
+5,Germany,42
+5,Grenada,42
+5,Guyana,42
+5,Haiti,42
+5,Israel,42
+5,Jamaica,42
+5,Norway,84
+5,Qatar,84
+5,Saint Kitts and Nevis,42
+5,Saint Lucia,42
+5,Saint Vincent and the Grenadines,42
+5,South Africa,42
+5,Sweden,42
+5,Trinidad and Tobago,84
+6,Andorra,42
+6,Angola,42
+6,Australia,42
+6,Bahamas,42
+6,Benin,42
+6,Bhutan,84
+6,Burkina Faso,84
+6,Cabo Verde,84
+6,Cameroon,42
+6,Chad,42
+6,Cook Islands,42
+6,Costa Rica,84
+6,Cote d'Ivoire,84
+6,Cyprus,42
+6,DR Congo,42
+6,Denmark,42
+6,El Salvador,84
+6,Fiji,42
+6,Finland,84
+6,Gambia,42
+6,Ghana,42
+6,Greece,84
+6,Guatemala,84
+6,Guinea,42
+6,Guinea Bissau,84
+6,Honduras,42
+6,Iran,42
+6,Ireland,42
+6,Israel,42
+6,Japan,42
+6,Malaysia,42
+6,Mali,84
+6,Mauritania,42
+6,Namibia,42
+6,Nepal,42
+6,Nicaragua,42
+6,Niger,42
+6,Nigeria,84
+6,Pakistan,42
+6,Panama,84
+6,Portugal,84
+6,Russian Federation,42
+6,Rwanda,84
+6,Sao Tome and Principe,84
+6,Senegal,84
+6,Sierra Leone,84
+6,South Africa,42
+6,Spain,84
+6,Togo,84
+6,Tunisia,42
+6,United Arab Emirates,42
+6,United Kingdom,42
+6,Venezuela,42
+6,Yemen,42
